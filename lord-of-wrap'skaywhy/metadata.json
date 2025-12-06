@@ -1,0 +1,7 @@
+{
+  "name": "Lord of Wrap's",
+  "description": "Premium wraps and rolls delivery service in Chandigarh. Fast, fresh, and local.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
